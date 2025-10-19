@@ -33,5 +33,6 @@ Excel (for preprocessing)
 
 GitHub (for documentation)
 
-![Dashboard](./screenshots/Capture1.jpg)
+
+![Description of image](https://raw.githubusercontent.com/moonjalal9695/Udemy-Student-Engagement-Dashboard/main/Capture1.JPG)
 
